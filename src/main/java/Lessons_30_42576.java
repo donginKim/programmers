@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Lessons_30 {
+public class Lessons_30_42576 {
     public static void main(String[] args){
 
         String[] participant_a = {"leo", "kiki", "eden"};
